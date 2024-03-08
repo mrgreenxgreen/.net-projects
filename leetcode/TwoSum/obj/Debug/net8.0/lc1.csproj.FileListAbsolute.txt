@@ -1,0 +1,15 @@
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/bin/Debug/net8.0/lc1
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/bin/Debug/net8.0/lc1.deps.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/bin/Debug/net8.0/lc1.runtimeconfig.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/bin/Debug/net8.0/lc1.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/bin/Debug/net8.0/lc1.pdb
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/obj/Debug/net8.0/lc1.GeneratedMSBuildEditorConfig.editorconfig
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/obj/Debug/net8.0/lc1.AssemblyInfoInputs.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/obj/Debug/net8.0/lc1.AssemblyInfo.cs
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/obj/Debug/net8.0/lc1.csproj.CoreCompileInputs.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/obj/Debug/net8.0/lc1.sourcelink.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/obj/Debug/net8.0/lc1.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/obj/Debug/net8.0/refint/lc1.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/obj/Debug/net8.0/lc1.pdb
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/obj/Debug/net8.0/lc1.genruntimeconfig.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/obj/Debug/net8.0/ref/lc1.dll
