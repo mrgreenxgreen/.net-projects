@@ -27,21 +27,21 @@ public class Solution
         //     Console.WriteLine(number);
         // }
         Solution solution = new Solution();
-        int target = 9;
+        int target = 5;
         var x = solution.TwoSum(numbers, target);
         string arrayToString = string.Join(", ", x);
         Console.WriteLine(arrayToString);
     }
 
-     public int[] TwoSum(int[] nums, int target) {
-            int[] x = new int[2];
-            for(int i = 0; i < nums.Length; i++){
-                for(int ii = 0; ii < i; ii++){
-                    if(nums[i]+nums[ii]==target){
-                        return new int[]{i,ii};
-                    }
-                }
+    public int[] TwoSum(int[] nums, int target) {
+
+        var pairs = new Dictionary<int, int>();
+        for(int i =0; i< nums.Length; i++){
+            if(pairs.ContainsKey(target-nums[i])){
+                return new int[]{pairs[target-nums[i]], i};
             }
-            return nums;
+            pairs.TryAdd(nums[i], i);
+        }
+        return default;
     }
 }

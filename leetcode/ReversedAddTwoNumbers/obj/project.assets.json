@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/TwoSum/lc1.csproj",
-      "projectName": "lc1",
-      "projectPath": "/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/TwoSum/lc1.csproj",
+      "projectUniqueName": "/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/ReversedAddTwoNumbers.csproj",
+      "projectName": "ReversedAddTwoNumbers",
+      "projectPath": "/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/ReversedAddTwoNumbers.csproj",
       "packagesPath": "/home/davedalimocon/.nuget/packages/",
-      "outputPath": "/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/TwoSum/obj/",
+      "outputPath": "/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/davedalimocon/.nuget/NuGet/NuGet.Config"

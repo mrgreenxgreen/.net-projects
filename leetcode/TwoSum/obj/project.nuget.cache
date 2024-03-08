@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ETGFIhsojwUymEXd1RU2Y0tAaZKFCZbo79xXIzepfyZkoGYbI+ucPzbqrnurRAcTiP2wNBDJf6+ZbjPjqM34w==",
+  "dgSpecHash": "8//Zf6nWcIsPclIAqlhj6MBIuGS2znA8I0bOdJeAIrOl9ta5OHQ9kvOw1Ljpe2jx0/tLphEFLgGLqKieqiLJow==",
   "success": true,
-  "projectFilePath": "/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/lc1/lc1.csproj",
+  "projectFilePath": "/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/TwoSum/lc1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
