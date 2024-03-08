@@ -1,0 +1,15 @@
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/bin/Debug/net8.0/ReversedAddTwoNumbers
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/bin/Debug/net8.0/ReversedAddTwoNumbers.deps.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/bin/Debug/net8.0/ReversedAddTwoNumbers.runtimeconfig.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/bin/Debug/net8.0/ReversedAddTwoNumbers.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/bin/Debug/net8.0/ReversedAddTwoNumbers.pdb
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/Debug/net8.0/ReversedAddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/Debug/net8.0/ReversedAddTwoNumbers.AssemblyInfoInputs.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/Debug/net8.0/ReversedAddTwoNumbers.AssemblyInfo.cs
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/Debug/net8.0/ReversedAddTwoNumbers.csproj.CoreCompileInputs.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/Debug/net8.0/ReversedAddTwoNumbers.sourcelink.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/Debug/net8.0/ReversedAddTwoNumbers.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/Debug/net8.0/refint/ReversedAddTwoNumbers.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/Debug/net8.0/ReversedAddTwoNumbers.pdb
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/Debug/net8.0/ReversedAddTwoNumbers.genruntimeconfig.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/ReversedAddTwoNumbers/obj/Debug/net8.0/ref/ReversedAddTwoNumbers.dll
