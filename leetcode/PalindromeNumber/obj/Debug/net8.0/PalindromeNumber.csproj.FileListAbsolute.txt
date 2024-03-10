@@ -1,0 +1,15 @@
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/bin/Debug/net8.0/PalindromeNumber
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/bin/Debug/net8.0/PalindromeNumber.deps.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/bin/Debug/net8.0/PalindromeNumber.runtimeconfig.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/bin/Debug/net8.0/PalindromeNumber.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/bin/Debug/net8.0/PalindromeNumber.pdb
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/obj/Debug/net8.0/PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/obj/Debug/net8.0/PalindromeNumber.AssemblyInfoInputs.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/obj/Debug/net8.0/PalindromeNumber.AssemblyInfo.cs
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/obj/Debug/net8.0/PalindromeNumber.csproj.CoreCompileInputs.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/obj/Debug/net8.0/PalindromeNumber.sourcelink.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/obj/Debug/net8.0/PalindromeNumber.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/obj/Debug/net8.0/refint/PalindromeNumber.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/obj/Debug/net8.0/PalindromeNumber.pdb
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/obj/Debug/net8.0/PalindromeNumber.genruntimeconfig.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/PalindromeNumber/obj/Debug/net8.0/ref/PalindromeNumber.dll
