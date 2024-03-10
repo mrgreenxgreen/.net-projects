@@ -1,0 +1,15 @@
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/obj/Debug/net8.0/LongestSubString.GeneratedMSBuildEditorConfig.editorconfig
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/obj/Debug/net8.0/LongestSubString.AssemblyInfoInputs.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/obj/Debug/net8.0/LongestSubString.AssemblyInfo.cs
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/obj/Debug/net8.0/LongestSubString.csproj.CoreCompileInputs.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/obj/Debug/net8.0/LongestSubString.sourcelink.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/bin/Debug/net8.0/LongestSubString
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/bin/Debug/net8.0/LongestSubString.deps.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/bin/Debug/net8.0/LongestSubString.runtimeconfig.json
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/bin/Debug/net8.0/LongestSubString.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/bin/Debug/net8.0/LongestSubString.pdb
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/obj/Debug/net8.0/LongestSubString.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/obj/Debug/net8.0/refint/LongestSubString.dll
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/obj/Debug/net8.0/LongestSubString.pdb
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/obj/Debug/net8.0/LongestSubString.genruntimeconfig.cache
+/home/davedalimocon/Desktop/projects2024/dotnet/dotnet-projects/leetcode/LongestSubString/obj/Debug/net8.0/ref/LongestSubString.dll
