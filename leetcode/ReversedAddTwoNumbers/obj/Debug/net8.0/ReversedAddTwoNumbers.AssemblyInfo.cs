@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReversedAddTwoNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba56e75ed5483494d2daa3ae8aa21ec5db60eda2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a47ade8c2e6c4db0cd17969a850365610524dbe5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReversedAddTwoNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReversedAddTwoNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
