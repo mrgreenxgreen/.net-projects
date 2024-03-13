@@ -35,7 +35,7 @@ namespace GameStore.Api.Data.Migrations
                     Price = table.Column<decimal>(type: "TEXT", nullable: false),
                     ReleaseDate = table.Column<DateOnly>(type: "TEXT", nullable: false)
                 },
-                constraints: table =>
+                constraints: table => 
                 {
                     table.PrimaryKey("PK_Games", x => x.Id);
                     table.ForeignKey(
